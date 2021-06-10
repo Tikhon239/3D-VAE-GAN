@@ -6,7 +6,7 @@
 
 ## Описание проекта
 
-Генерация трехмерных стульев в воксельном представлении на основе результатов статьи https://arxiv.org/pdf/1610.07584.pdf.
+Генерация трехмерных стульев в воксельном представлении на основе результатов статьи [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584.pdf).
 
 ## Проделанная работа
 
