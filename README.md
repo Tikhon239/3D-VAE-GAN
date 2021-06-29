@@ -35,8 +35,17 @@
 2. Обучить модель с энкодером на отрендеренных стульях
 3. Попробовать обучить больше эпох.
 
+## Результаты энкодера
+
+Восстановленная 3d модель
+
+GT 3d модель
+
+Вход энкодера
+![Результаты энкодера](images/encoder_results.png)
+
 ## Ссылка на код
 
 [рабочая версия](https://colab.research.google.com/drive/1M8HrZ12AY7MStRwYQOKsde6miO6rGb_4?usp=sharing)
 
-[финальная версия](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[финальная версия](https://colab.research.google.com/drive/1M8HrZ12AY7MStRwYQOKsde6miO6rGb_4?usp=sharing)
